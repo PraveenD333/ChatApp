@@ -1,4 +1,4 @@
-# Real-Time Chat Application
+# Real-Time Chat Application - MERN Fullstack (Frontend + Backend)
 
 A modern real-time chat application built with MERN stack (MongoDB, Express.js, React, Node.js) and Socket.IO.
 
